@@ -240,7 +240,12 @@ body {
  /* modal design end
  accordion start */
 
-
+ .new-accordion .acc{
+     text-align: center;
+     font-size: 55px;
+     color: white;
+    
+ }
  .new-accordion{
      width: 650px;
      height: auto;
